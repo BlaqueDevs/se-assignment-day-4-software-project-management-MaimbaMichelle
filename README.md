@@ -3,10 +3,8 @@
 # SE_DAY4_Software-Project-Management
 ## 1. Why is timely delivery crucial in software project management, and how can project managers ensure that deadlines are met?Client Satisfaction and Trust
 Delivering on time builds trust with clients and stakeholders. It shows reliability and professionalism, which can lead to repeat business, referrals, and a solid reputation.
-
 Competitive Advantage
 Software markets are fast-paced. Releasing a product on time can help capture market share, beat competitors, and capitalize on time-sensitive opportunities.
-
 Cost Control
 Delays often lead to budget overruns. Extra time can mean additional labor costs, resource expenditures, and opportunity costs if resources are tied up longer than planned.
 
